@@ -1,0 +1,7 @@
+<template>
+  <section class="max-w-5xl mx-auto px-6 py-10">
+    <slot></slot>
+  </section>
+</template>
+
+<script setup></script>
