@@ -6,7 +6,7 @@
       image="https://picsum.photos/1200/500"
     />
 
-    <h1 class="text-3xl mb-6 font-bold mt-10">Berita Terbaru</h1>
+    <h1 class="text-3xl mb-6 font-bold mt-10">Berita Tentang Himti</h1>
 
     <div class="grid grid-cols-1 md:grid-cols-3 gap-6">
       <Card
